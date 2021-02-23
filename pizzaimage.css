@@ -1,0 +1,24 @@
+.row
+{
+padding-left:70px;
+padding-right: 10px;
+padding-bottom: 15px;
+
+}
+.mid
+{padding-left:100px;
+padding-right: 100px; }
+.jumbotron {
+margin-bottom: 0px;
+background-image: url('https://img.freepik.com/free-photo/tasty-pepperoni-pizza-black-concrete-background_79782-103.jpg?size=626&ext=jpg');
+background-position: 0% 25%;
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+text-shadow: black 0.1em 0.1em 0.1em;}
+hr
+{
+color: black;
+width:50%;
+border-width:2px;
+}
